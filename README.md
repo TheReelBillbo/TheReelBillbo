@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheReelBillbo
 - 👀 whoami:  By trade I am an IT Manager for a MSP in Northern Nevada.  
       I started working at an ISP as a tech support agent in 1998 and have worked in the Information Technology field full-time since 1999.  
-      I started out using BBS back in the 80s and hacking forums as a kid and found it really interesting but never really pursued it.  
+      I started out using BBS back in the 80s and browsing hacking forums as a kid and found it really interesting but never really pursued it.  
       I recently found myself growing bored with IT and poking aroung on YT I started watching CTF videos - following along.  
       I am now working to obtain more training and will soon make the switch into CyberSecurity.  
       Outside of working and learning, I am a husband, grandpa, furbaby daddy, veteran, backpacker, and gaming nerd.
